@@ -1,4 +1,4 @@
-# front End Resources
+# Front End Hub Resources
 
 List of useful resources for frontend developers
 
